@@ -1,0 +1,12 @@
+C:\Users\M3800\Desktop\LoanMaterials\LoanMaterials\bin\Debug\LoanMaterials.exe.config
+C:\Users\M3800\Desktop\LoanMaterials\LoanMaterials\bin\Debug\LoanMaterials.exe
+C:\Users\M3800\Desktop\LoanMaterials\LoanMaterials\bin\Debug\LoanMaterials.pdb
+C:\Users\M3800\Desktop\LoanMaterials\LoanMaterials\obj\Debug\LoanMaterials.csprojAssemblyReference.cache
+C:\Users\M3800\Desktop\LoanMaterials\LoanMaterials\obj\Debug\LoanMaterials.Form1.resources
+C:\Users\M3800\Desktop\LoanMaterials\LoanMaterials\obj\Debug\Prop.Form2.resources
+C:\Users\M3800\Desktop\LoanMaterials\LoanMaterials\obj\Debug\Prop.Form5.resources
+C:\Users\M3800\Desktop\LoanMaterials\LoanMaterials\obj\Debug\LoanMaterials.Properties.Resources.resources
+C:\Users\M3800\Desktop\LoanMaterials\LoanMaterials\obj\Debug\LoanMaterials.csproj.GenerateResource.cache
+C:\Users\M3800\Desktop\LoanMaterials\LoanMaterials\obj\Debug\LoanMaterials.csproj.CoreCompileInputs.cache
+C:\Users\M3800\Desktop\LoanMaterials\LoanMaterials\obj\Debug\LoanMaterials.exe
+C:\Users\M3800\Desktop\LoanMaterials\LoanMaterials\obj\Debug\LoanMaterials.pdb
